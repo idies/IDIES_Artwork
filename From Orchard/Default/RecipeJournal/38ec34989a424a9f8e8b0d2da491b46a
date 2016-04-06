@@ -1,0 +1,6 @@
+<RecipeJournal>
+  <Status>Failed</Status>
+  <Message>Executing step Metadata.</Message>
+  <Message>Executing step Data.</Message>
+  <Message>Recipe execution with id 38ec34989a424a9f8e8b0d2da491b46a was cancelled because the "Data" step failed to execute. The following exception was thrown: object references an unsaved transient instance - save the transient instance before flushing or set cascade action for the property to something that would make it autosave. Type: Orchard.Projections.Models.PropertyRecord, Entity: Orchard.Projections.Models.PropertyRecord. Refer to the error logs for more information.</Message>
+</RecipeJournal>
