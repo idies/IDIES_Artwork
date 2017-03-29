@@ -1,0 +1,43 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Quark-Bold
+FamilyName:Quark
+StyleName:Bold
+FullName:Quark Bold
+MenuName:Quark
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:H:\Artwork\IDIES\Brochure\Document fonts\Quark-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97072
+FileModTime:1476027718
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:QuarkLight
+FamilyName:QuarkLight
+StyleName:Light
+FullName:Quark-Light
+MenuName:QuarkLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Artwork\IDIES\Brochure\Document fonts\quark-light.ttf
+DataFormat:sfntData
+FileLength:78148
+FileModTime:1476027718
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+

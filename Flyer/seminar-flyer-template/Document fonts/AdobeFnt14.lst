@@ -1,0 +1,127 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arnhem-Blond
+FamilyName:Arnhem-Blond
+StyleName:Regular
+FullName:Arnhem-Blond
+MenuName:Arnhem-Blond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Artwork\IDIES\Flyer\seminar-flyer Folder\Document fonts\Arnhem-Blond.ttf
+DataFormat:sfntData
+FileLength:97030
+FileModTime:1411732796
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArnhemSmaCap-Blond
+FamilyName:ArnhemSmaCap-Blond
+StyleName:Regular
+FullName:ArnhemSmaCap-Blond
+MenuName:ArnhemSmaCap-Blond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Artwork\IDIES\Flyer\seminar-flyer Folder\Document fonts\ArnhemSmaCap-Blond.ttf
+DataFormat:sfntData
+FileLength:108333
+FileModTime:1411732763
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-CondIt
+FamilyName:Myriad Pro
+StyleName:Condensed Italic
+FullName:Myriad Pro Condensed Italic
+MenuName:Myriad Pro Cond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:H:\Artwork\IDIES\Flyer\seminar-flyer Folder\Document fonts\MyriadPro-CondIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:102240
+FileModTime:1329322520
+WeightClass:400
+WidthClass:3
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Artwork\IDIES\Flyer\seminar-flyer Folder\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:101732
+FileModTime:1329322520
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Oswald
+FamilyName:Oswald
+StyleName:Book
+FullName:Oswald 
+MenuName:Oswald
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Artwork\IDIES\Flyer\seminar-flyer Folder\Document fonts\Oswald-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:41432
+FileModTime:1396891858
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Oswald-Bold
+FamilyName:Oswald
+StyleName:Bold
+FullName:Oswald Bold
+MenuName:Oswald
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:H:\Artwork\IDIES\Flyer\seminar-flyer Folder\Document fonts\Oswald-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29428
+FileModTime:1396891846
+WeightClass:700
+WidthClass:1
+AngleClass:0
+%EndFont
+

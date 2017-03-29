@@ -1,0 +1,93 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: seminar-flyer.indd
+
+PACKAGE DATE: 1/25/2017 9:06 AM
+Creation Date: 1/25/2017
+Modification Date: 1/25/2017
+
+CONTACT INFORMATION
+
+Company Name: IDIES
+Contact: Bonnie Souter
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: bonbons0220@gmail.com
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page1
+
+FONTS
+6 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arnhem-Blond; Type: TrueType, Status: OK
+- Name: ArnhemSmaCap-Blond; Type: TrueType, Status: OK
+- Name: MyriadPro-CondIt; Type: OpenType Type 1, Status: OK
+- Name: MyriadPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: Oswald; Type: OpenType Type 1, Status: OK
+- Name: Oswald-Bold; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 2 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 1 use RGB color space
+
+
+PRINT SETTINGS
+PPD: N/A, (Canon iR-ADV C5045/5051 UFR II)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. seminar-flyer.indd; type: Adobe InDesign publication; size: 0K
+2. Arnhem-Blond.ttf; type: Font file; size: 94K
+3. ArnhemSmaCap-Blond.ttf; type: Font file; size: 105K
+4. MyriadPro-CondIt.otf; type: Font file; size: 99K
+5. MyriadPro-Regular.otf; type: Font file; size: 99K
+6. Oswald-Regular.otf; type: Font file; size: 40K
+7. Oswald-Bold.otf; type: Font file; size: 28K
