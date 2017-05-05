@@ -1,0 +1,117 @@
+Meeting the Big Data Challenge is not just about building faster computers, it is about smarter computing. The Challenge is not to find brute force correlations in Big Data, it is to identify fundamental relationships, to expand our understanding of the physical universe. The Challenge is about more than solving today’s problems; we want to set the stage for breakthroughs we have barely begun to imagine. 
+At IDIES we develop faster, smarter, better techniques to access and analyze Big Data, enabling the global scientific community to find Big Answers to Big Questions.
+Be part of the team that makes it happen. With your help, we will meet, and master, the Big Data Challenge.
+
+http://idies.jhu.edu/future/
+LEADING THE
+BIG DATA
+REVOLUTION
+OF SCIENCE
+
+The Institute for Data Intensive
+Engineering and Science
+The Johns Hopkins University
+3400 N. Charles Street
+Baltimore, MD 21218
+
+Want to know more?
+Contact us:
+idies-team@jhu.edu
+
+JOIN OUR TEAM
+
+MEET column
+[alex pic]
+Alex Szalay, founder of IDIES,
+began in the mid 1990’s
+with a grant from the Seaver
+Foundation, followed by the
+Moore and Keck Foundations.
+Alex leveraged the seed
+money, hiring postdocs and
+researchers to realize his
+vision of a scientific big data
+revolution.
+
+[andrew pic]
+Professor Andrew Connolly
+of the Univ. of Washington,
+once a post-doc working
+with Alex Szalay, now shapes
+the scientific future of the
+LSST (Large Synoptic Survey
+Telescope).
+
+[charles and tom]
+The Institute for Data
+Intensive Engineering and
+Science (IDIES) fosters
+research in data-intensive
+science, with emphasis on
+problems of national interest
+in science and engineering.
+
+[Pi-hD]
+Alex Szalay is working to
+reinvent the PhD at Johns
+Hopkins with a “PI” shaped
+training format – deep training
+in two disciplines (e.g.
+biochemistry and computer
+science).
+
+LEARN column
+[graph]
+2001: SDSS releases 100
+Gigabytes in its first Early
+Data Release.
+2012: SDSS releases 10
+Terabytes in Data Release 12.
+2021: LSST is projected to
+release 1.5 Petabytes per
+year.
+
+[sdss]
+The Sloan Digital Sky Survey
+(SDSS) has created the most
+detailed three-dimensional
+maps of the Universe ever
+made, with deep multi-color
+images of one third of the sky,
+and spectra for more than
+three million astronomical
+objects.
+
+[sciserver]
+SciServer is a ambitious
+cyberinfrastructure project
+funded by the NSF to enable
+universal access to and
+analysis of large scientific
+datasets.
+
+[lsst]
+IDIES researchers are working
+with the Large Synoptic
+Survey Telescope (LSST) to
+optimize database storage and
+access so that researchers
+around the world can access
+its expected 15 Petabytes of
+catalog data.
+
+CONTRIBUTE column
+Mastering scientific big
+data is about recruiting and
+training the the world’s best
+scientific revolutionaries and
+giving them the resources
+they need to do the job.
+
+$10K: Graduate student
+research stipend.
+
+$25K: Equipment fund.
+
+$50K: Post-doc six month research award.
+$100K: Named full year post doc research award. 
